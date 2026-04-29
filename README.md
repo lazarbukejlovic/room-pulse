@@ -90,9 +90,9 @@ With RoomPulse, the goal was to show:
 
 ## Live Demo
 
-**Live:**   https://room-pulse.vercel.app
+## [Live](https://room-pulse-seven.vercel.app/)
 
-**Repository:** https://github.com/lazarbukejlovic-dotcom/roompulse
+## [Repository](https://github.com/lazarbukejlovic/room-pulse)
 
 ## Author
 
